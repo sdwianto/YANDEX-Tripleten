@@ -1,4 +1,4 @@
-## Bank credict analyst
+## BETA Bank credit analyst
 #### <i> Sprint focus: Handling missing value and duplicate, change data type, data classification </i>
 
 Summary: 
