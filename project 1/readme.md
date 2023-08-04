@@ -1,5 +1,5 @@
 ## Compare user music preferences in the cities of Springfield and Shelbyville and examining actual Y.Music data to test several hypotheses and compare user behavior in both cities.
-### Sprint focus: Basic Python, string, loop, nested loop, function, dictionary, pandas library, data preprocessing.
+#### <i>Sprint focus: Basic Python, string, loop, nested loop, function, dictionary, pandas library, data preprocessing.</i>
 
 Summary:
 
