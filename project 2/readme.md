@@ -1,4 +1,4 @@
-## BETA Bank credit analyst
+## BETA Bank credit analyst report
 #### <i> Sprint focus: Handling missing value and duplicate, change data type, data classification </i>
 
 Summary: 
