@@ -1,4 +1,4 @@
-##
+## Credit Analyst Report for BETA Bank
 #### <i>Sprint focus: Supervised Learning, features importance, One-Hot-Encoding, Sanity Check, Imbalance Data, Recall, Precision, F1 Score, Up sampling, Down sampling, AUC-ROC, MSE, MAE </i>
 
 Project Summary:
