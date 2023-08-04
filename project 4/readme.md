@@ -1,4 +1,4 @@
-## MEGALINE, a telecommunications operator wants to determine which package generate more revenue
+## MEGALINE, a telecommunications operator wants, to determine which package generate more revenue
 #### <i>Sprint Focus: Probability Theory and Statistics, Continue and Discrete Variable, Categorical and Numerical Variable, Variance, Standard Deviation, Quartile, Normal and Binomial distribution, Histogram, three-sigma rule, Hypothesis </i>
 
 Summary: As an analyst for MEGALINE, a telecommunications operator, the company offers two prepaid packages, Surf and Ultimate. The advertising department aims to determine which package generates more revenue to adjust the advertising budget. The initial analysis is based on a sample of 500 clients, including data on identities, locations, package types, and call/message usage in 2018. The objective is to analyze client behavior and identify the package with higher revenue.
