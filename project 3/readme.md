@@ -1,4 +1,4 @@
-## Vehicle price advertisements analyst
+## Analyst for Vehicle Price Advertisements.
 #### <i>Sprint focus: Exploratory Data Analysis, pyplot, pivot table, data query, merge, join, scatterplot, correlation</i>
 
 Summary: 
