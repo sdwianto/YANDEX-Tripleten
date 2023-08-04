@@ -1,4 +1,4 @@
-## Determine game platform next year plan campaign
+## Determine the game platform for next year's planned campaign
 #### <i>Sprint focus: Integrated Project 1, Python, Statistical Analysis, Exploratory Analysis, Probability Theory, Hypothesis Testing </i>
 
 Summary:
