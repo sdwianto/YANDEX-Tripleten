@@ -1,7 +1,8 @@
-##
+## Vehicle price advertisements analyst
 #### <i>Sprint focus: Exploratory Data Analysis, pyplot, pivot table, data query, merge, join, scatterplot, correlation</i>
 
 Summary: 
+
 As an analyst at Crankshaft List, the project goal is to study the dataset from the past few years, which consists of hundreds of free vehicle advertisements posted on the company's website daily. The objective is to determine the factors that influence the price of a vehicle.
 To achieve this, several steps were taken, including handling missing values by filling certain columns with appropriate assumptions. In addition, inappropriate data types were corrected for better analysis.
 
