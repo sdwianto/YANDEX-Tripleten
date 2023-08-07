@@ -2,7 +2,7 @@
 #### <i>Sprint focus: Computer Vision, Neural Network, Keras Library, Fully Connected Network, Convolution, LeNet Architecture, Adam Algorithm, ResNet Architecture </i>
 
 Summary:
-Project Description: A supermarket franchise called Good Seed wants to explore whether Data Science can help them comply with the law by ensuring that they do not sell age-restricted products to underage customers. They have cameras installed in the cashier area that display a signal when someone purchases age-restricted products. Computer vision methods can be used to determine a person's age from a photo. Your task is to build and evaluate a model to verify a person's age based on the provided photos.
+Project Description: A supermarket franchise called Good Seed wants to explore whether Data Science can help them comply with the law by ensuring that they do not sell age-restricted products to underage customers. They have cameras installed in the cashier area that display a signal when someone purchases age-restricted products. Computer vision methods can be used to determine a person's age from a photo. The task is to build and evaluate a model to verify a person's age based on the provided photos.
 
 EDA Findings:
 -	The image dataset contains 7,591 photos with age labels.
