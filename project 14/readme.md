@@ -1,4 +1,4 @@
-## Develop model to automatically detect negative reviews
+## Develop model to classify negative or positive reviews
 #### <i>Sprint focus: Machine Learning for Text, bag-of-word (BoW), N-Gram, TF-IDF, Tokenization, Lemmatization, Corpus, Regular Expression, Text Analysis, Sentiment Analysis, Word Embedding, Word2vec, BERT </i>
 
 Summary: 
