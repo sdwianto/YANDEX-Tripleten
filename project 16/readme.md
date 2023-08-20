@@ -1,5 +1,5 @@
 ## INTERCONNECT, a telecommunications operator, aims to forecast their client churn rate
-#### <i>Sprint focus: Final Project. Helping ‘INTERCONECT’ a telecommunication operator company to predict ‘churn’ of their customer, and then if we know client have planning to stop company will give promotion offering and special package option </i>
+#### <i>Sprint focus: Helping ‘INTERCONECT’ a telecommunication operator company to predict ‘churn’ of their customer, and then if we know client have planning to stop company will give promotion offering and special package option </i>
 
 Project Description: 
 INTERCONNECT, a telecommunications operator, aims to forecast their client churn rate. When a client is planning to terminate services, they will be offered promotional codes and special package options. The marketing team has collected personal data of clients, including information about their selected data packages and contracts.
