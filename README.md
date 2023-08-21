@@ -1,4 +1,4 @@
-# yandex-practicum
+# YANDEX- Tripleten
 ### 1. Analyst for Vehicle Price Advertisements.
 Sprint focus: Exploratory Data Analysis, pyplot, pivot table, data query, merge, join, scatterplot, correlation
 ### 2. MEGALINE, a telecommunications operator wants, to determine which package generate more revenue
